@@ -1,0 +1,40 @@
+"ExpressPCB Netlist"
+"LTspice IV Version 4.23l"
+1
+0
+0
+""
+""
+""
+"Part IDs Table"
+"Vsupply" "{vdd}" ""
+"C1" "2p" ""
+"R1" "R" ""
+"V2" "PULSE(0 {Vdd} 0 15n 15n 100n 200n)" ""
+"M1" "PMOS" ""
+"M2" "PMOS" ""
+
+"Net Names Table"
+"vdd" 1
+"N003" 3
+"N002" 6
+"N001" 9
+"N004" 12
+"0" 14
+
+"Net Connections Table"
+1 1 1 2
+1 6 1 0
+2 1 2 4
+2 2 2 5
+2 5 3 0
+3 2 1 7
+3 5 1 8
+3 6 3 0
+4 3 1 10
+4 5 2 11
+4 6 2 0
+5 3 2 13
+5 4 1 0
+6 4 2 0
+

@@ -1,0 +1,33 @@
+"ExpressPCB Netlist"
+"LTspice IV Version 4.23l"
+1
+0
+0
+""
+""
+""
+"Part IDs Table"
+"R1" "1K" ""
+"V1" "{V2}" ""
+"D1" "1N914" ""
+"L1" "150n" ""
+"V2" "" ""
+
+"Net Names Table"
+"IN" 1
+"OUT" 3
+"N001" 6
+"0" 8
+
+"Net Connections Table"
+1 1 1 2
+1 5 1 0
+2 1 2 4
+2 2 1 5
+2 3 2 0
+3 2 2 7
+3 4 1 0
+4 3 1 9
+4 4 2 10
+4 5 2 0
+
