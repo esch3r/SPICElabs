@@ -1,5 +1,5 @@
 # SPICElabs
-This repository will include projects and solutions to problems solved and verified with Spice.
+** SPICE stands for Simulation Program with Integrated Circuit Emphasis**
 ## This respository is an overview of the many *'flavors'* in which netlists and Circuit simulation files can take 
 Understanding the differences and the syntax of these often bizzare looking file formats is useful due to their use on industrial based circuit simulation.  Understanding not only how these simulations are compiled but also which formats are more efficient than others can be pivotal to getting more accurate behavior of how the circuit is working / whether or not it can work. Another aspect that is important 
 
